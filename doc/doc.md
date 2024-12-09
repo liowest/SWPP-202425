@@ -25,3 +25,6 @@ Für das Projekt wird eine einfache Projektorganisation gewählt. Der Projektauf
 ## Projektstrukturplan
 1. Für das Projekt wurde ein Projektstrukturplan ertellt!
 2. Der Plan wurde als PDF auf Github gestellt!
+
+## Gantt Chart
+Im Ablaufplan haben wir die Aufgaben aus dem PSP in eine zeitliche Abfolge gebracht und deren Dauer geplant. Mithilfe von Meilensteinen und Abhängigkeiten konnten wir sicherstellen, dass alle Aufgaben logisch aufeinander aufbauen. Zusätzlich haben wir Pufferzeiten eingeplant, um mögliche Verzögerungen abzufangen. Der Ablaufplan zeigt den gesamten Projektverlauf visuell und ermöglicht es, den Fortschritt zu überwachen und rechtzeitig auf Probleme zu reagieren.
