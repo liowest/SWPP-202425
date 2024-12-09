@@ -22,3 +22,6 @@ Für das Projekt wird eine einfache Projektorganisation gewählt. Der Projektauf
 1. **Dateispeicherung**: JSON-Dateien oder Textdateien zur Speicherung von Aufgaben und Benutzerdaten.
 2. **API**: OpenWeatherMap oder eine ähnliche Wetter-API für den Zugriff auf aktuelle Wetterdaten.
 
+## Projektstrukturplan
+1. Für das Projekt wurde ein Projektstrukturplan ertellt!
+2. Der Plan wurde als PDF auf Github gestellt!
